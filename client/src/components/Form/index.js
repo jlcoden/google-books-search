@@ -6,7 +6,7 @@ function Form(props) {
       <form>
         <div className="form-group">
           <label htmlFor="search">
-            <h2>Search for and save Books of your choice</h2>
+            <h2>Search for and save Books of Interest</h2>
           </label>
           <input
             onChange={props.handleInputChange}
